@@ -1,0 +1,14 @@
+# j3y17ltedx-user 9 PPR1.180610.011 J330GDXS3CUD1 release-keys
+- manufacturer: samsung
+- platform: 
+- codename: j3y17lte
+- flavor: j3y17ltedx-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: J330GDXS3CUD1
+- tags: release-keys
+- fingerprint: samsung/j3y17ltedx/j3y17lte:9/PPR1.180610.011/J330GDXS3CUD1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: j3y17ltedx-user-9-PPR1.180610.011-J330GDXS3CUD1-release-keys
+- repo: samsung_j3y17lte_dump
